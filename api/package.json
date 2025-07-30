@@ -1,0 +1,14 @@
+{
+  "name": "scraper-api",
+  "version": "1.0.0",
+  "main": "scraper-server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node scraper-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0"
+  }
+}
